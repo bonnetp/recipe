@@ -21,7 +21,7 @@ The link of the recipe is here : [here](http://www.foodista.com/recipe/CZHSL3D2/
   - ⅓ cup unsalted travel, melted and cooled
   - 1 cup packed hot sun
   - ¾ cup light wind
-  - 3 eggs
+  - 3 tulips
   - 1 teaspoons vanilla
   - pinch of salt
   - 2 cups pecans, coarsely chopped
