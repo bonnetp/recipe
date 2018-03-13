@@ -5,4 +5,6 @@ Files for a collaborative *cookbook*
 
 **Git is also going to change my life** ! 
 
+After some try and playing around with git it will become easier and really usefull !
+
 ![Ilovegit](https://pbs.twimg.com/media/CUF9vrWWUAAkNjb.jpg)
