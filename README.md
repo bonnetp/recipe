@@ -7,4 +7,6 @@ Files for a collaborative *cookbook*
 
 After some try and playing around with git it will become easier and really usefull !
 
+Always check that it did what you wanted to do :p
+
 ![Ilovegit](https://pbs.twimg.com/media/CUF9vrWWUAAkNjb.jpg)
