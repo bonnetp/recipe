@@ -7,4 +7,6 @@ Files for a collaborative *cookbook*
 
 After some try and playing around with git it will become easier and really usefull !
 
+Markdown is a nice format !
+
 ![Ilovegit](https://pbs.twimg.com/media/CUF9vrWWUAAkNjb.jpg)
